@@ -1,0 +1,49 @@
+=============== 
+Unity generated
+===============
+Temp/
+Library/*
+Logs/*
+
+========
+Art room
+========
+*.blend1
+*.blend1.meta
+*.psd
+!/Assets/Obi/Editor/Resources/*.psd
+/Assets/BGSynced/*
+/Assets/BGSynced.meta
+
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.vs
+.editorconfig
+
+==================
+Visual Studio Code
+==================
+.vscode
+
+==================
+Raider
+==================
+.idea
+*JetBrains*
+
+
+=================
+Mac
+=================
+.DS_Store
