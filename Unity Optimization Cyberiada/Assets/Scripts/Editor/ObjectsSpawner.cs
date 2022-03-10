@@ -8,7 +8,7 @@ public class ObjectsSpawner : ScriptableWizard
 {
     private static Transform parent;
     [SerializeField] private GameObject objectToSpawn;
-    [SerializeField] private int rows = 100;
+    [SerializeField] private int rows = 10;
     [SerializeField] private int columns = 100;
     [SerializeField] private float positionOffset = 1.5f;
 

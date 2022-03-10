@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 2083224479526560254}
   - component: {fileID: 101887362702583814}
   - component: {fileID: 6553342381777077166}
-  - component: {fileID: 8416697646043259757}
+  - component: {fileID: 1398810999548587795}
   m_Layer: 0
-  m_Name: EnemyFindOfType
+  m_Name: EnemyFindWithTag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83,7 +83,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2374489775167777847}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &8416697646043259757
+--- !u!114 &1398810999548587795
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,6 +92,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 2374489775167777847}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6c43249617776de4abfc95d61b632f91, type: 3}
+  m_Script: {fileID: 11500000, guid: 3f50fb609ad0b384eb86ff6bc3b0fc8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
